@@ -1,35 +1,66 @@
 {
   "Lembaga": [
-    { "nomor": 1, "nama": "Sekretariat Daerah" },
-    { "nomor": 2, "nama": "DPRD" },
-    { "nomor": 3, "nama": "Inspektorat Daerah" },
-    { "nomor": 4, "nama": "Dinas Daerah" },
-    { "nomor": 5, "nama": "Badan Daerah" },
-    { "nomor": 6, "nama": "Kecamatan" },
-    { "nomor": 7, "nama": "Kelurahan" },
-    { "nomor": 8, "nama": "Unit Pelaksana Teknis Dinas" },
-    { "nomor": 9, "nama": "Unit Pelaksana Teknis Badan" },
-    { "nomor": 10, "nama": "Sekretariat DPRD" },
-    { "nomor": 11, "nama": "Dinas Pendidikan" },
-    { "nomor": 12, "nama": "Dinas Kesehatan" },
-    { "nomor": 13, "nama": "Dinas Sosial" },
-    { "nomor": 14, "nama": "Dinas Tenaga Kerja dan Transmigrasi" },
-    { "nomor": 15, "nama": "Dinas Pekerjaan Umum dan Penataan Ruang" },
-    { "nomor": 16, "nama": "Dinas Perumahan dan Permukiman" },
-    { "nomor": 17, "nama": "Dinas Ketahanan Pangan" },
-    { "nomor": 18, "nama": "Dinas Lingkungan Hidup" },
-    { "nomor": 19, "nama": "Dinas Kependudukan dan Pencatatan Sipil" },
-    { "nomor": 20, "nama": "Dinas Pemberdayaan Masyarakat dan Desa" },
+    { "nomor": 1, "nama": "Sekretariat Daerah Kabupaten Garut" },
+    { "nomor": 2, "nama": "Sekretariat DPRD Kabupaten Garut" },
+    { "nomor": 3, "nama": "Inspektorat Daerah Kabupaten Garut" },
+    { "nomor": 4, "nama": "Dinas Pendidikan Kabupaten Garut" },
+    { "nomor": 5, "nama": "Badan Kepegawaian dan Diklat Kabupaten Garut" },
     {
-      "nomor": 21,
-      "nama": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan dan Perlindungan Anak"
+      "nomor": 6,
+      "nama": "Badan Pengelolaan Keuangan dan Aset Daerah Kabupaten Garut"
     },
-    { "nomor": 22, "nama": "Dinas Komunikasi dan Informatika" },
-    { "nomor": 23, "nama": "Dinas Perhubungan" },
-    { "nomor": 24, "nama": "Dinas Koperasi dan UKM" },
     {
-      "nomor": 25,
-      "nama": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu"
-    }
+      "nomor": 7,
+      "nama": "Badan Perencanaan Pembangunan Daerah Kabupaten Garut"
+    },
+    { "nomor": 8, "nama": "Badan Kesatuan Bangsa dan Politik Kabupaten Garut" },
+    { "nomor": 9, "nama": "Badan Pendapatan Daerah Kabupaten Garut" },
+    { "nomor": 10, "nama": "Dinas Kesehatan Kabupaten Garut" },
+    {
+      "nomor": 11,
+      "nama": "Dinas Pekerjaan Umum dan Penataan Ruang Kabupaten Garut"
+    },
+    { "nomor": 12, "nama": "Dinas Sosial Kabupaten Garut" },
+    {
+      "nomor": 13,
+      "nama": "Dinas Tenaga Kerja dan Transmigrasi Kabupaten Garut"
+    },
+    { "nomor": 14, "nama": "Dinas Lingkungan Hidup Kabupaten Garut" },
+    { "nomor": 15, "nama": "Dinas Perhubungan Kabupaten Garut" },
+    { "nomor": 16, "nama": "Dinas Komunikasi dan Informatika Kabupaten Garut" },
+    {
+      "nomor": 17,
+      "nama": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu Kabupaten Garut"
+    },
+    { "nomor": 18, "nama": "Dinas Pariwisata dan Kebudayaan Kabupaten Garut" },
+    { "nomor": 19, "nama": "Dinas Koperasi dan UKM Kabupaten Garut" },
+    { "nomor": 20, "nama": "Dinas Kelautan dan Perikanan Kabupaten Garut" },
+    { "nomor": 21, "nama": "Dinas Ketahanan Pangan Kabupaten Garut" },
+    {
+      "nomor": 22,
+      "nama": "Dinas Perindustrian dan Perdagangan Kabupaten Garut"
+    },
+    {
+      "nomor": 23,
+      "nama": "Dinas Kependudukan dan Pencatatan Sipil Kabupaten Garut"
+    },
+    {
+      "nomor": 24,
+      "nama": "Dinas Pengendalian Penduduk dan Keluarga Berencana Kabupaten Garut"
+    },
+    { "nomor": 25, "nama": "Dinas Perpustakaan dan Kearsipan Kabupaten Garut" },
+    {
+      "nomor": 26,
+      "nama": "Dinas Perumahan dan Kawasan Permukiman Kabupaten Garut"
+    },
+    { "nomor": 27, "nama": "Satuan Polisi Pamong Praja Kabupaten Garut" },
+    { "nomor": 28, "nama": "Dinas Pertanian Kabupaten Garut" },
+    { "nomor": 29, "nama": "Dinas Peternakan Kabupaten Garut" },
+    {
+      "nomor": 30,
+      "nama": "Dinas Pemberdayaan Masyarakat dan Desa Kabupaten Garut"
+    },
+    { "nomor": 31, "nama": "Kecamatan di Kabupaten Garut" },
+    { "nomor": 32, "nama": "Kelurahan di Kabupaten Garut" }
   ]
 }

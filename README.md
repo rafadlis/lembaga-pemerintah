@@ -11,4 +11,4 @@ Data bersumber dari aturan-aturan pemerintah yang resmi. Berikut Daftarnya
 
 | Aturan | tentang | Link |
 | --------- | ------ | ----- |
-| Peraturan Bupati (PERBUP) Kabupaten Garut No. 235 Tahun 2021 mengenai Perubahan Keempat Atas Peraturan Bupati Garut Nomor 27 Tahun 2016 tentang Kedudukan dan Susunan Organisasi Perangkat Daerah Kabupaten Garut | Daftar Lembaga Pemda Garut | [Link Perpub](https://peraturan.bpk.go.id/Details/208798/perbup-kab-garut-no-235-tahun-2021) |
+| PPeraturan Bupati (PERBUP) Kabupaten Garut Nomor 194 Tahun 2023 tentang Perubahan Keenam Atas Peraturan Bupati Nomor 27 Tahun 2016 Tentang Kedudukan dan Susunan Organisasi Perangkat Daerah Kabupaten Garut | Daftar Lembaga Pemda Garut | [Link Perpub](https://peraturan.bpk.go.id/Details/284968/perbup-kab-garut-no-194-tahun-2023) |
