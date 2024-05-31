@@ -1,54 +1,27 @@
 {
-  "lembaga_pemerintah": [
-    {
-      "nama": "Badan Perencanaan Pembangunan Daerah",
-      "singkatan": "BAPPEDA",
-      "alamat": "Jl. Patriot No.1, Sukagalih, Tarogong Kidul, Garut"
-    },
-    {
-      "nama": "Dinas Pendidikan",
-      "singkatan": "Disdik",
-      "alamat": "Jl. Pembangunan No.159, Jayawaras, Tarogong Kidul, Garut"
-    },
-    {
-      "nama": "Dinas Kesehatan",
-      "singkatan": "Dinkes",
-      "alamat": "Jl. Pembangunan No.245, Jayawaras, Tarogong Kidul, Garut"
-    },
-    {
-      "nama": "Dinas Pekerjaan Umum dan Penataan Ruang",
-      "singkatan": "DPUPR",
-      "alamat": "Jl. Patriot No.12, Sukagalih, Tarogong Kidul, Garut"
-    },
-    {
-      "nama": "Dinas Kependudukan dan Pencatatan Sipil",
-      "singkatan": "Disdukcapil",
-      "alamat": "Jl. Patriot No.20, Sukagalih, Tarogong Kidul, Garut"
-    },
-    {
-      "nama": "Dinas Sosial",
-      "singkatan": "Dinsos",
-      "alamat": "Jl. Merdeka No.56, Jayawaras, Tarogong Kidul, Garut"
-    },
-    {
-      "nama": "Dinas Komunikasi dan Informatika",
-      "singkatan": "Diskominfo",
-      "alamat": "Jl. Patriot No.3, Sukagalih, Tarogong Kidul, Garut"
-    },
-    {
-      "nama": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
-      "singkatan": "DPMPTSP",
-      "alamat": "Jl. Patriot No.9, Sukagalih, Tarogong Kidul, Garut"
-    },
-    {
-      "nama": "Inspektorat Daerah",
-      "singkatan": "Inspektorat",
-      "alamat": "Jl. Patriot No.15, Sukagalih, Tarogong Kidul, Garut"
-    },
-    {
-      "nama": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
-      "singkatan": "BKPSDM",
-      "alamat": "Jl. Patriot No.7, Sukagalih, Tarogong Kidul, Garut"
-    }
+  "Lembaga": [
+    "Sekretariat Daerah",
+    "Dewan Perwakilan Rakyat Daerah",
+    "Inspektorat Daerah",
+    "Dinas Daerah",
+    "Badan Daerah",
+    "Kecamatan",
+    "Kelurahan",
+    "Unit Pelaksana Teknis Dinas",
+    "Unit Pelaksana Teknis Badan",
+    "Dinas Pendidikan",
+    "Dinas Kesehatan",
+    "Dinas Sosial",
+    "Dinas Tenaga Kerja dan Transmigrasi",
+    "Dinas Pekerjaan Umum dan Penataan Ruang",
+    "Dinas Perumahan dan Permukiman",
+    "Dinas Ketahanan Pangan",
+    "Dinas Lingkungan Hidup",
+    "Dinas Pemberdayaan Masyarakat dan Desa",
+    "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan dan Perlindungan Anak",
+    "Badan Perencanaan Pembangunan Daerah",
+    "Badan Kepegawaian dan Diklat",
+    "Badan Pengelolaan Keuangan dan Aset Daerah",
+    "Satuan Polisi Pamong Praja"
   ]
 }
