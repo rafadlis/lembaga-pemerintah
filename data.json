@@ -1,27 +1,35 @@
 {
   "Lembaga": [
-    "Sekretariat Daerah",
-    "Dewan Perwakilan Rakyat Daerah",
-    "Inspektorat Daerah",
-    "Dinas Daerah",
-    "Badan Daerah",
-    "Kecamatan",
-    "Kelurahan",
-    "Unit Pelaksana Teknis Dinas",
-    "Unit Pelaksana Teknis Badan",
-    "Dinas Pendidikan",
-    "Dinas Kesehatan",
-    "Dinas Sosial",
-    "Dinas Tenaga Kerja dan Transmigrasi",
-    "Dinas Pekerjaan Umum dan Penataan Ruang",
-    "Dinas Perumahan dan Permukiman",
-    "Dinas Ketahanan Pangan",
-    "Dinas Lingkungan Hidup",
-    "Dinas Pemberdayaan Masyarakat dan Desa",
-    "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan dan Perlindungan Anak",
-    "Badan Perencanaan Pembangunan Daerah",
-    "Badan Kepegawaian dan Diklat",
-    "Badan Pengelolaan Keuangan dan Aset Daerah",
-    "Satuan Polisi Pamong Praja"
+    { "nomor": 1, "nama": "Sekretariat Daerah" },
+    { "nomor": 2, "nama": "DPRD" },
+    { "nomor": 3, "nama": "Inspektorat Daerah" },
+    { "nomor": 4, "nama": "Dinas Daerah" },
+    { "nomor": 5, "nama": "Badan Daerah" },
+    { "nomor": 6, "nama": "Kecamatan" },
+    { "nomor": 7, "nama": "Kelurahan" },
+    { "nomor": 8, "nama": "Unit Pelaksana Teknis Dinas" },
+    { "nomor": 9, "nama": "Unit Pelaksana Teknis Badan" },
+    { "nomor": 10, "nama": "Sekretariat DPRD" },
+    { "nomor": 11, "nama": "Dinas Pendidikan" },
+    { "nomor": 12, "nama": "Dinas Kesehatan" },
+    { "nomor": 13, "nama": "Dinas Sosial" },
+    { "nomor": 14, "nama": "Dinas Tenaga Kerja dan Transmigrasi" },
+    { "nomor": 15, "nama": "Dinas Pekerjaan Umum dan Penataan Ruang" },
+    { "nomor": 16, "nama": "Dinas Perumahan dan Permukiman" },
+    { "nomor": 17, "nama": "Dinas Ketahanan Pangan" },
+    { "nomor": 18, "nama": "Dinas Lingkungan Hidup" },
+    { "nomor": 19, "nama": "Dinas Kependudukan dan Pencatatan Sipil" },
+    { "nomor": 20, "nama": "Dinas Pemberdayaan Masyarakat dan Desa" },
+    {
+      "nomor": 21,
+      "nama": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan dan Perlindungan Anak"
+    },
+    { "nomor": 22, "nama": "Dinas Komunikasi dan Informatika" },
+    { "nomor": 23, "nama": "Dinas Perhubungan" },
+    { "nomor": 24, "nama": "Dinas Koperasi dan UKM" },
+    {
+      "nomor": 25,
+      "nama": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu"
+    }
   ]
 }
